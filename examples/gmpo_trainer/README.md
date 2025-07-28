@@ -15,7 +15,7 @@ This is the official implementaion of paper [***Geometric-Mean Policy Optimizati
 
 
 <div align=center>
-<img src="examples/gmpo_trainer/gmpo_teaser.png" width="100%">
+<img src="./gmpo_teaser.png" width="100%">
 </div>
 
 
@@ -40,6 +40,7 @@ bash examples/gmpo_trainer/run_qwen2_5-7b_math.sh
 ## 4. Contacts
 If you have any question about our work or this repository, please don't hesitate to contact us by emails or open an issue under this project.
 - [zhaoyuzhong20@mails.ucas.ac.cn](zhaoyuzhong20@mails.ucas.ac.cn)
+- [liuyue171@mails.ucas.ac.cn](liuyue171@mails.ucas.ac.cn)
 
 ## 5. Citation
 
